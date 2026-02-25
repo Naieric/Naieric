@@ -147,7 +147,13 @@
 
 ###
 
-<p align="left"> • 1st Runner-up, Super AI Engineer Season 5 (Innovator Track)<br> • Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group<br> • Top 8 Finalist - LINE Hackathon 2025<br> • Outstanding Student Recognition 2025 – University Honor Award</p>
+<p align="left">
+• 1st Runner-up — Super AI Engineer Season 5 (Innovator Track)<br>
+• Top 8 Finalist — LINE Hackathon 2025<br>
+• Outstanding Student Recognition 2025 — University Honor Award<br>
+• Semi-Finalist — Yes Talent Camp 2025 (Mitr Phol Group)<br>
+• Selected Project — KU AI Pioneers: Forward Challenge
+</p>
 
 ###
 
