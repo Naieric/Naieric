@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hey! I'm Pichanat</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;RAG+Pipeline+Designer;Backend+Architecture+Enthusiast" />
-</p>
+<h1 align="center">
+  <code>Hey!🙌 Let me introduce myself </code>
+</h1>
 
 ###
 
