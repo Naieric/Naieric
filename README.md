@@ -62,14 +62,10 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/pichanat-prommanee-9b490a362/"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="text-decoration:none; outline:none;">
+  <a href="https://www.linkedin.com/in/pichanat-prommanee-9b490a362/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-Pichanat%20Prommanee-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
   </a>
-  <a href="mailto:Pichanat.pp@gmail.com"
-     style="text-decoration:none; outline:none;">
+  <a href="mailto:Pichanat.pp@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Pichanat.pp%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
   </a>
 
