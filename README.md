@@ -1,5 +1,6 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hey!%F0%9F%99%8C%20Let%20me%20introduce%20myself%20&fontSize=40&fontColor=#ffffff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=89&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
+  <img style="width:100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hey!%F0%9F%99%8C%20Let%20me%20introduce%20myself%20&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=89&descAlign=50&descAlignY=50&textBg=false&theme=default"  />
 </div>
 
 ###
