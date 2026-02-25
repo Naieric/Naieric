@@ -68,9 +68,6 @@
      style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-Pichanat%20Prommanee-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
   </a>
-
-  &nbsp;
-
   <a href="mailto:Pichanat.pp@gmail.com"
      style="text-decoration:none;">
     <img src="https://img.shields.io/badge/EMAIL-Pichanat.pp%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
