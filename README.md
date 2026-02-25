@@ -75,7 +75,7 @@
 
 ###
 
-<p align="left">Apr 2025 - Aug 2025 | Onsite (Thailand)</p>
+<p align="center">Apr 2025 - Aug 2025 | Onsite (Thailand)</p>
 
 ###
 
@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">Sept 2025 - Nov 2025 | Hybrid (Taiwan)</p>
+<p align="center">Sept 2025 - Nov 2025 | Hybrid (Taiwan)</p>
 
 ###
 
