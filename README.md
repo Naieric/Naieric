@@ -62,7 +62,7 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/pichanat-prommanee-9b490a362/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/pichanat-pp/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-Pichanat%20Prommanee-555555?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" height="28"/>
   </a>
   <a href="mailto:Pichanat.pp@gmail.com">
