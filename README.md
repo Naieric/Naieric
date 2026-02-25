@@ -91,27 +91,49 @@
 
 ###
 
-<h4 align="left">1.Kong Invest - AI Finance : Smart Risk Analytics for investments (Capstone Project)</h4>
+<h3 align="left">1. Kong Invest - AI Finance : Smart Risk Analytics for investments (Capstone Project)</h3>
 
 ###
 
-<p align="left">-</p>
+<p align="left">
+• <strong>Technologies</strong><br>
+&nbsp;&nbsp;&nbsp;React.js, Node.js (Express), FastAPI, LINE LIFF (LINE Mini App), LLM, RAG, External Financial & News APIs<br><br>
+• <strong>Features</strong><br>
+&nbsp;&nbsp;&nbsp;• AI-powered investment advisory chatbot for stock analysis and financial insights<br>
+&nbsp;&nbsp;&nbsp;• RAG pipeline integrating real-time stock market and financial news data for context-aware responses<br>
+&nbsp;&nbsp;&nbsp;• LINE Mini App supporting stock tracking, conversational interaction, and personalized notifications<br>
+&nbsp;&nbsp;&nbsp;• Scalable backend architecture for API aggregation and data orchestration
+</p>
 
 ###
 
-<h4 align="left">2.THANKUN - LINE Hackathon</h4>
+<h3 align="left">2. Thankun - LINE Hackathon</h3>
 
 ###
 
-<p align="left">-</p>
+<p align="left">
+• <strong>Technologies</strong><br>
+&nbsp;&nbsp;&nbsp;Python, React.js, LINE Mini App (LIFF), LINE API, LLM<br><br>
+• <strong>Features</strong><br>
+&nbsp;&nbsp;&nbsp;• LLM-powered chatbot for elderly remote assistance within a LINE Mini App (LIFF)<br>
+&nbsp;&nbsp;&nbsp;• Conversational workflows with authentication and session state management<br>
+&nbsp;&nbsp;&nbsp;• Secure and scalable backend APIs supporting real-time interactions
+</p>
 
 ###
 
-<h4 align="left">3.Patthana.ai - Super AI Engineer Season 5</h4>
+<h3 align="left">3. Patthana.ai - Super AI Engineer Season 5</h3>
 
 ###
 
-<p align="left">-</p>
+<p align="left">
+• <strong>Technologies</strong><br>
+&nbsp;&nbsp;&nbsp;LLM, React.js, LINE Messaging API<br><br>
+• <strong>Features</strong><br>
+&nbsp;&nbsp;&nbsp;• LLM-driven chatbot for Thai language learning and travel assistance<br>
+&nbsp;&nbsp;&nbsp;• Real-time translation and contextual explanations<br>
+&nbsp;&nbsp;&nbsp;• Integration with LINE Messaging API and RESTful backend services
+</p>
 
 ###
 
@@ -119,7 +141,7 @@
 
 ###
 
-<p align="left">1st Runner-up, Super AI Engineer Season 5 (Innovator Track)<br> Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group<br> Top 8 Finalist - LINE Hackathon 2025</p>
+<p align="left"> • 1st Runner-up, Super AI Engineer Season 5 (Innovator Track)<br> • Semi-Final - Yes Talent Camp 2025 by Mitr Phol Group<br> • Top 8 Finalist - LINE Hackathon 2025</p>
 
 ###
 
