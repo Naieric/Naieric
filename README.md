@@ -68,6 +68,9 @@
   <a href="mailto:Pichanat.pp@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-Pichanat.pp%40gmail.com-555555?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
   </a>
+  <a href="https://naiportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/PORTFOLIO-naiportfolio.vercel.app-555555?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="28"/>
+  </a>
 
 </div>
 
